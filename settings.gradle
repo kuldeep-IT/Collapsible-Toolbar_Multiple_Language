@@ -1,0 +1,6 @@
+rootProject.name = "Collapsible Toolbar"
+include ':app'
+
+
+
+
